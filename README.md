@@ -4,7 +4,7 @@ RSS Stacker
 A command line tool that creates on-topic lists of valid feeds
 --------------------------------------------------------------
 
-Creates text files of valid RSS feeds in the format expected by the BrightContext RSS Input file upload interface.
+Creates text files of valid RSS feeds, each on a new line.
 
 You can either append new feeds to a list you already have, or create new files.
 
