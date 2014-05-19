@@ -20,7 +20,7 @@
     "rss"
   ],
   "author": "Zack Proser",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "preferGlobal": "true",
   "bin": {
     "stackrss": "index.js"
