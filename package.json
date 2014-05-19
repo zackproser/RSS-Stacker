@@ -1,0 +1,28 @@
+{
+  "name": "RssStacker",
+  "version": "0.0.0",
+  "description": "Command line tool that creates lists of valid RSS feeds",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.12.0",
+    "cheerio": "~0.15.0",
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrightContext/rssstacker.git"
+  },
+  "keywords": [
+    "rss"
+  ],
+  "author": "Zack Proser",
+  "license": "ISC",
+  "preferGlobal": "true",
+  "bin": {
+    "stackrss": "index.js"
+  }
+}
